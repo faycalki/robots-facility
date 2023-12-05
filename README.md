@@ -75,7 +75,7 @@ We welcome contributions to enhance the game, add new features, or improve exist
 
 ## License
 
-This project is licensed under the [MIT License](https://chat.openai.com/c/LICENSE). Feel free to fork, modify, and share the game with others.
+This project is licensed under the [MIT License](https://en.wikipedia.org/wiki/MIT_License). Feel free to fork, modify, and share the game with others.
 
 ---
 
