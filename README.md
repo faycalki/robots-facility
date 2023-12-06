@@ -68,7 +68,6 @@ java RobotGameMain
     
 - **Terminal Visuals**: Enhanced terminal visuals using ANSI escape codes to differentiate robot states.
     
-
 ## Contributing
 
 We welcome contributions to enhance the game, add new features, or improve existing ones. Feel free to open issues, submit pull requests, or provide valuable feedback.
