@@ -74,7 +74,7 @@ We welcome contributions to enhance the game, add new features, or improve exist
 
 ## License
 
-This project is licensed under the [MIT License](https://en.wikipedia.org/wiki/MIT_License). Feel free to fork, modify, and share the game with others.
+This project is licensed under the [GNU License](https://www.gnu.org/licenses/gpl-3.0.en.html). Feel free to fork, modify, and share the game with others.
 
 ---
 
